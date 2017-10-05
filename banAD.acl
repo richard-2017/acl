@@ -58,6 +58,12 @@
 (^|\.)ad\d{0,3}\..*$
 (^|\.)ads\d{0,3}\..*$
 
+#myself
+(^|\.).sufficient\.cn$
+(^|\.).xdsfe\.com$
+
+
+
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
 (^|\.)(analytics|img1|img2|mimg|ws|push)\.126\.net$
